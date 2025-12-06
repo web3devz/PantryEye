@@ -57,8 +57,8 @@
 
 ```bash
 # Clone the repository
-git clone <repository-url>
-cd pantry-eye
+git clone https://github.com/web3devz/PantryEye
+cd PantryEye
 
 # Install dependencies
 npm install
@@ -292,17 +292,6 @@ This is a private project. For questions or suggestions, contact the maintainer.
 
 **Private Project** - All rights reserved.
 
----
-
-## 🙏 Acknowledgments
-
-- **React Team** - For the amazing framework
-- **Vite Team** - For blazing-fast build tooling
-- **YOLO** - For computer vision models
-- **Tesseract.js** - For OCR capabilities
-- **fast-check** - For property-based testing
-
----
 
 ## 📧 Contact
 
